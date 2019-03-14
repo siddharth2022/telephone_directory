@@ -8,7 +8,7 @@ self.__precacheManifest = [
     "url": "/telephone_directory/static/js/runtime~main.362d4c49.js"
   },
   {
-    "revision": "03eb272a0657674f8304",
+    "revision": "2ba3e6c5be9ab37ded3a",
     "url": "/telephone_directory/static/js/main.abcb247c.chunk.js"
   },
   {
@@ -16,11 +16,11 @@ self.__precacheManifest = [
     "url": "/telephone_directory/static/js/2.8b2938bc.chunk.js"
   },
   {
-    "revision": "03eb272a0657674f8304",
-    "url": "/telephone_directory/static/css/main.55f1a13c.chunk.css"
+    "revision": "2ba3e6c5be9ab37ded3a",
+    "url": "/telephone_directory/static/css/main.4358a526.chunk.css"
   },
   {
-    "revision": "06ed45e3df7e04172133f33a8759a27f",
+    "revision": "2562c12f1523abfd8c7fb392cf3d3ed7",
     "url": "/telephone_directory/index.html"
   }
 ];
