@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/telephone_directory/static/css/main.b7be3d04.chunk.css"
   },
   {
-    "revision": "0827fb2ff61edce79c433f368ce4e38a",
+    "revision": "a1e256dbed042e06971bec01173b9d75",
     "url": "/telephone_directory/index.html"
   }
 ];
