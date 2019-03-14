@@ -1,14 +1,14 @@
 {
-  "main.css": "/telephone_directory_upgrade/static/css/main.9843a174.chunk.css",
-  "main.js": "/telephone_directory_upgrade/static/js/main.768c8793.chunk.js",
-  "main.js.map": "/telephone_directory_upgrade/static/js/main.768c8793.chunk.js.map",
-  "runtime~main.js": "/telephone_directory_upgrade/static/js/runtime~main.9f0681c2.js",
-  "runtime~main.js.map": "/telephone_directory_upgrade/static/js/runtime~main.9f0681c2.js.map",
-  "static/js/2.a657bb28.chunk.js": "/telephone_directory_upgrade/static/js/2.a657bb28.chunk.js",
-  "static/js/2.a657bb28.chunk.js.map": "/telephone_directory_upgrade/static/js/2.a657bb28.chunk.js.map",
-  "index.html": "/telephone_directory_upgrade/index.html",
-  "precache-manifest.8fce867fada345259fcb7f76eac1df05.js": "/telephone_directory_upgrade/precache-manifest.8fce867fada345259fcb7f76eac1df05.js",
-  "service-worker.js": "/telephone_directory_upgrade/service-worker.js",
-  "static/css/main.9843a174.chunk.css.map": "/telephone_directory_upgrade/static/css/main.9843a174.chunk.css.map",
-  "static/media/logo.svg": "/telephone_directory_upgrade/static/media/logo.5d5d9eef.svg"
+  "main.css": "/telephone_directory/static/css/main.9843a174.chunk.css",
+  "main.js": "/telephone_directory/static/js/main.f4cdfd17.chunk.js",
+  "main.js.map": "/telephone_directory/static/js/main.f4cdfd17.chunk.js.map",
+  "runtime~main.js": "/telephone_directory/static/js/runtime~main.362d4c49.js",
+  "runtime~main.js.map": "/telephone_directory/static/js/runtime~main.362d4c49.js.map",
+  "static/js/2.a657bb28.chunk.js": "/telephone_directory/static/js/2.a657bb28.chunk.js",
+  "static/js/2.a657bb28.chunk.js.map": "/telephone_directory/static/js/2.a657bb28.chunk.js.map",
+  "index.html": "/telephone_directory/index.html",
+  "precache-manifest.902e059e76b0875ddc93956a8578b2b0.js": "/telephone_directory/precache-manifest.902e059e76b0875ddc93956a8578b2b0.js",
+  "service-worker.js": "/telephone_directory/service-worker.js",
+  "static/css/main.9843a174.chunk.css.map": "/telephone_directory/static/css/main.9843a174.chunk.css.map",
+  "static/media/logo.svg": "/telephone_directory/static/media/logo.5d5d9eef.svg"
 }
